@@ -270,44 +270,8 @@ WHERE to prepare for System Design (High-Level Design) Interviews?  (Ordered by 
 
 -   Famous algorithms
 
--   Bloom Filter
+    [Algorithm you should know before system design](https://github.com/himalayadua/Algos-and-System-Design/blob/main/System%20Design/Questions/2.%20Algorithm%20you%20should%20know%20-%20system%20design.md)
 
--   Count Min Sketch
+2.  FREQUENTLY ASKED QUESTIONS (AGGREGATED)
 
--   Geohash / S2 Geometry (Used in Uber Engineering)
-
--   Quadtree (Used in Uber Engineering)
-
--   Reverse index (Used in Web Crawlers like Google)
-
-3.  FREQUENTLY ASKED QUESTIONS (AGGREGATED)
-
-1.  Design TinyURL
-
-2.  Design Pastebin
-
-3.  Design Dropbox
-
-4.  Design Instagram/Twitter
-
-5.  Design Tinder
-
-6.  Design WhatsApp/FB Messenger
-
-7.  Design BookMyShow/TicketMaster
-
-8.  Design Distributed Job Scheduling System like AWS
-
-9.  Design Youtube/Netflix
-
-10. Design API Rate Limiter
-
-11. Design Uber
-
-12. Design Swiggy
-
-13. (OPTIONAL) Design Search Suggestions System
-
-14. (OPTIONAL) Design Distributed Caching System like Redis
-
-15. (OPTIONAL) Design Distributed Messaging Queue like KAFKA
+    [FREQUENTLY ASKED QUESTIONS](https://github.com/himalayadua/Algos-and-System-Design/blob/main/System%20Design/Questions/1.%20Design%20a%20__.md)
